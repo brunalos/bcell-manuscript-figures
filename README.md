@@ -1,12 +1,12 @@
 # Project Overview
 
-This repository contains code examples used to generate Figures 1 (B-D) and 2 (A-F) as presented in the [publication](https://www.frontiersin.org/articles/10.3389/fimmu.2022.1030409/full).
+In the course of my doctoral studies, my colleague and I delved into the complex network that govern how cells transport and release proteins, a crucial aspect of their function.
 
-**Figure 1.**
-![Figure 1 B-C](https://www.frontiersin.org/files/Articles/1030409/fimmu-13-1030409-HTML-r1/image_m/fimmu-13-1030409-g001.jpg)
+For immune cells, especially lymphocytes, this process becomes pivotal during their activation and transformation phases. As these cells become activated, they enter a state where they produce and release significant amounts of vital substances such as cytokines, cytotoxins, or antibodies. Understanding how these cells efficiently and specifically manage this intricate dance of transporting and releasing substances is essential.
 
-**Figure 2.**
-![Figure 2 A-F](https://www.frontiersin.org/files/Articles/1030409/fimmu-13-1030409-HTML-r1/image_m/fimmu-13-1030409-g002.jpg)
+Our project delves into the world of B-lymphocytes, specifically during activation and differentiation. We employ a systematic bioinformatics approach, focusing on a process called alternative splicing, to uncover how RNA-based mechanisms influence intracellular trafficking and protein secretion.
+
+To achieve this, we applied techniques outlined in the table of contents, and this repository includes code examples that generated Figures 1 (B-D) and 2 (A-F) presented in the [publication](https://www.frontiersin.org/articles/10.3389/fimmu.2022.1030409/full).
 
 ## Table of Contents
 1. [RNA-seq Data Analysis](#1-rna-seq-data-analysis)
