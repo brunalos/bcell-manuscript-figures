@@ -35,9 +35,11 @@ The data analysis was executed using Python 3.7.11 and R v. 4.2.1. Ensure you ha
 pip install pandas==1.3.3 numpy==1.21.2 seaborn==0.11.2 matplotlib==3.4.3 scikit-learn==0.24.2
 ```
 
-#### Figures
+#### Figure Example
 
-![Figure_Heatmap_PCA](Figure_Python.png)
+In the left figure, we employed principal component analysis (PCA) to examine the expression pattern of 15,754 genes. We found that cells at different developmental stages distinctly separated, and repeated samples from each cell type clustered closely. On the right figure, the Heatmap illustrates genes with different expression levels within B cells. The code described in [`GE_analysis.ipynb`](GE_analysis.ipynb) demonstrates how we generated this figure. 
+
+![Figure_PCA_Heatmap](Figure_Python.png)
 
 ### R Libraries
 
@@ -53,7 +55,9 @@ pip install pandas==1.3.3 numpy==1.21.2 seaborn==0.11.2 matplotlib==3.4.3 scikit
 ```R
 install.packages(c("tidyverse", "readxl", "ggrepel", "dplyr", "EnhancedVolcano", "ggplot2", "cowplot"))
 ```
-#### Figures
+#### Figure Example
+
+In this figure, we explored the differences in gene expression between two different stages of B cells. The code described in [`VolcanoPlot_example.R`](VolcanoPlot_example.R) demonstrates how we generated this figure. 
 
 ![Figure_VP](Figure_VolcanoPlot.png)
 
@@ -64,14 +68,13 @@ install.packages(c("tidyverse", "readxl", "ggrepel", "dplyr", "EnhancedVolcano",
 ```R
 install.packages(c("tidyverse", "readxl", "ggrepel", "dplyr", "clusterProfiler", "org.Hs.eg.db", "AnnotationDbi", "ggplot2", "cowplot"))
 ```
-#### Figures
+#### Figure Example
+
+In this figure, we explored the 10 strongest enriched GO terms between two different stages of B cells. The code described in [`GOterm_example.R`](GOterm_example.R) demonstrates how we generated this insightful figure. 
 
 ![Figure_GO](Figure_GOterm.png)
 ---
 
-For detailed Python code examples, please refer to [`GE_analysis.ipynb`](GE_analysis.ipynb).
-
-For R code examples, refer to [`VolcanoPlot_example.R`](VolcanoPlot_example.R) and [`GOterm_example.R`](GOterm_example.R).
 
 ## Citation
 ```
