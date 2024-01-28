@@ -37,7 +37,7 @@ pip install pandas==1.3.3 numpy==1.21.2 seaborn==0.11.2 matplotlib==3.4.3 scikit
 
 #### Figure Example
 
-In the left figure, we employed principal component analysis (PCA) to examine the expression pattern of 15,754 genes. We found that cells at different developmental stages distinctly separated, and repeated samples from each cell type clustered closely. On the right figure, the Heatmap illustrates genes with different expression levels within B cells. The code described in [`GE_analysis.ipynb`](GE_analysis.ipynb) demonstrates how we generated this figure. 
+In the left figure, we employed principal component analysis (PCA) to examine the expression pattern of 15,754 genes. We found that cells at different developmental stages distinctly separated, and repeated samples from each cell type clustered closely. On the right figure, the Heatmap illustrates genes with different expression levels within B cells. The code described in [`GE_analysis.ipynb`](GE_analysis.ipynb) demonstrates how we generated these figures. 
 
 ![Figure_PCA_Heatmap](Figure_Python.png)
 
@@ -57,7 +57,7 @@ install.packages(c("tidyverse", "readxl", "ggrepel", "dplyr", "EnhancedVolcano",
 ```
 #### Figure Example
 
-In this figure, we explored the differences in gene expression between two different stages of B cells. The code described in [`VolcanoPlot_example.R`](VolcanoPlot_example.R) demonstrates how we generated this figure. 
+In this figure, we explored how genes related to RNA-based mechanisms are differently expressed between two stages of B cells. The code described in [`VolcanoPlot_example.R`](VolcanoPlot_example.R) demonstrates how we generated this figure. 
 
 ![Figure_VP](Figure_VolcanoPlot.png)
 
@@ -74,7 +74,6 @@ In this figure, we explored the 10 strongest enriched GO terms between two diffe
 
 ![Figure_GO](Figure_GOterm.png)
 ---
-
 
 ## Citation
 ```
