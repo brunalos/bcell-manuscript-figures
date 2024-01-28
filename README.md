@@ -44,7 +44,7 @@ pip install pandas==1.3.3 numpy==1.21.2 seaborn==0.11.2 matplotlib==3.4.3 scikit
 
 #### Volcano Plot
 
-##### Installation
+#### Installation
 
 ```R
 install.packages(c("tidyverse", "readxl", "ggrepel", "dplyr", "EnhancedVolcano", "ggplot2", "cowplot"))
@@ -52,7 +52,7 @@ install.packages(c("tidyverse", "readxl", "ggrepel", "dplyr", "EnhancedVolcano",
 
 #### Gene Ontology (GO) Term Enrichment Analysis
 
-##### Installation
+#### Installation
 
 ```R
 install.packages(c("tidyverse", "readxl", "ggrepel", "dplyr", "clusterProfiler", "org.Hs.eg.db", "AnnotationDbi", "ggplot2", "cowplot"))
