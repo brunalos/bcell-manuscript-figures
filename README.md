@@ -35,6 +35,10 @@ The data analysis was executed using Python 3.7.11 and R v. 4.2.1. Ensure you ha
 pip install pandas==1.3.3 numpy==1.21.2 seaborn==0.11.2 matplotlib==3.4.3 scikit-learn==0.24.2
 ```
 
+#### Figures
+
+![Figure_Heatmap_PCA](Figure_Python.png)
+
 ### R Libraries
 
 #### Requirements
@@ -49,6 +53,9 @@ pip install pandas==1.3.3 numpy==1.21.2 seaborn==0.11.2 matplotlib==3.4.3 scikit
 ```R
 install.packages(c("tidyverse", "readxl", "ggrepel", "dplyr", "EnhancedVolcano", "ggplot2", "cowplot"))
 ```
+#### Figures
+
+![Figure_VP](Figure_VolcanoPlot.png)
 
 #### Gene Ontology (GO) Term Enrichment Analysis
 
@@ -57,7 +64,9 @@ install.packages(c("tidyverse", "readxl", "ggrepel", "dplyr", "EnhancedVolcano",
 ```R
 install.packages(c("tidyverse", "readxl", "ggrepel", "dplyr", "clusterProfiler", "org.Hs.eg.db", "AnnotationDbi", "ggplot2", "cowplot"))
 ```
+#### Figures
 
+![Figure_GO](Figure_GOterm.png)
 ---
 
 For detailed Python code examples, please refer to [`GE_analysis.ipynb`](GE_analysis.ipynb).
