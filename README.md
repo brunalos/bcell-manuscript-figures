@@ -1,9 +1,11 @@
 # Project Overview
 
-This repository contains code examples used to generate Figures 1 and 2 as presented in the [publication](https://www.frontiersin.org/articles/10.3389/fimmu.2022.1030409/full).
+This repository contains code examples used to generate Figures 1 (B-C) and 2 (A-F) as presented in the [publication](https://www.frontiersin.org/articles/10.3389/fimmu.2022.1030409/full).
 
+Figure 1.
 ![Figure 1 B-C](https://www.frontiersin.org/files/Articles/1030409/fimmu-13-1030409-HTML-r1/image_m/fimmu-13-1030409-g001.jpg)
 
+Figure 2.
 ![Figure 2 A-F](https://www.frontiersin.org/files/Articles/1030409/fimmu-13-1030409-HTML-r1/image_m/fimmu-13-1030409-g002.jpg)
 
 ## Table of Contents
@@ -63,7 +65,6 @@ For detailed Python code examples, please refer to [`GE_analysis.ipynb`](GE_anal
 For R code examples, refer to [`VolcanoPlot_example.R`](VolcanoPlot_example.R) and [`GOterm_example.R`](GOterm_example.R).
 
 ## Citation
-
-Ostwaldt F., Los B., Heyd F. In silico analysis of alternative splicing events implicated in intracellular trafficking during B-lymphocyte differentiation. Front Immunol. 2022 Nov 10:13:1030409. doi: 10.3389/fimmu.2022.1030409. eCollection 2022.
 ```
+Ostwaldt F., Los B., Heyd F. In silico analysis of alternative splicing events implicated in intracellular trafficking during B-lymphocyte differentiation. Front Immunol. 2022 Nov 10:13:1030409. doi: 10.3389/fimmu.2022.1030409. eCollection 2022.
 
