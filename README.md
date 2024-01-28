@@ -1,11 +1,11 @@
 # Project Overview
 
-This repository contains code examples used to generate Figures 1 (B-C) and 2 (A-F) as presented in the [publication](https://www.frontiersin.org/articles/10.3389/fimmu.2022.1030409/full).
+This repository contains code examples used to generate Figures 1 (B-D) and 2 (A-F) as presented in the [publication](https://www.frontiersin.org/articles/10.3389/fimmu.2022.1030409/full).
 
-Figure 1.
+**Figure 1.**
 ![Figure 1 B-C](https://www.frontiersin.org/files/Articles/1030409/fimmu-13-1030409-HTML-r1/image_m/fimmu-13-1030409-g001.jpg)
 
-Figure 2.
+**Figure 2.**
 ![Figure 2 A-F](https://www.frontiersin.org/files/Articles/1030409/fimmu-13-1030409-HTML-r1/image_m/fimmu-13-1030409-g002.jpg)
 
 ## Table of Contents
