@@ -2,7 +2,7 @@
 
 In the course of my doctoral studies, my colleague and I delved into the complex network that govern how cells transport and release proteins, a crucial aspect of their function.
 
-For immune cells, especially lymphocytes, this process becomes pivotal during their activation and transformation phases. As these cells become activated, they enter a state where they produce and release significant amounts of vital substances such as cytokines, cytotoxins, or antibodies. Understanding how these cells efficiently and specifically manage this intricate dance of transporting and releasing substances is essential.
+For immune cells, especially lymphocytes, this process becomes pivotal during their activation and differentiation phases. As these cells become activated, they enter a state where they produce and release significant amounts of vital substances such as cytokines, cytotoxins, or antibodies. Understanding how these cells efficiently and specifically manage this intricate dance of transporting and releasing substances is essential.
 
 Our project delves into the world of B-lymphocytes, specifically during activation and differentiation. We employ a systematic bioinformatics approach, focusing on a process called alternative splicing, to uncover how RNA-based mechanisms influence intracellular trafficking and protein secretion.
 
@@ -37,7 +37,7 @@ pip install pandas==1.3.3 numpy==1.21.2 seaborn==0.11.2 matplotlib==3.4.3 scikit
 
 #### Figure Example
 
-In the left figure, we employed principal component analysis (PCA) to examine the expression pattern of 15,754 genes. We found that cells at different developmental stages distinctly separated, and repeated samples from each cell type clustered closely. On the right figure, the Heatmap illustrates genes with different expression levels within B cells. The code described in [`GE_analysis.ipynb`](GE_analysis.ipynb) demonstrates how we generated these figures. 
+In the left figure, we employed principal component analysis (PCA) to examine the expression pattern of 15,754 genes. Our analysis revealed distinct separation among B cells at various stages, with samples from each cell type forming closely-clustered groups. On the right figure, the Heatmap illustrates genes with different expression levels within B cells. The code described in [`GE_analysis.ipynb`](GE_analysis.ipynb) demonstrates how we generated these figures. 
 
 ![Figure_PCA_Heatmap](Figure_Python.png)
 
