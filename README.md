@@ -1,8 +1,8 @@
 # Project Overview
 
-In the course of my doctoral studies, my colleague and I delved into the complex network that govern how cells transport and release proteins, a crucial aspect of their function.
+During my doctoral studies, my colleague and I studied the complex network that governs how cells transport and release proteins, a crucial aspect of their function.
 
-For immune cells, especially lymphocytes, this process becomes pivotal during their activation and differentiation phases. As these cells become activated, they enter a state where they produce and release significant amounts of substances such as cytokines, cytotoxins, or antibodies. Understanding how these cells efficiently and specifically manage this intricate process of transporting and releasing substances is essential.
+For immune cells, especially lymphocytes, this process becomes pivotal during their activation and differentiation phases. As these cells become activated, they enter a state where they produce and release significant amounts of substances such as cytokines, cytotoxins, or antibodies. Understanding how these cells efficiently and specifically manage this process of transporting and releasing substances is essential.
 
 Our initial step was to analyze differences in gene expression levels across various stages of B-lymphocyte activation and differentiation. This analysis revealed distinct patterns of gene expression specific to each cell type, providing valuable insights into the regulatory strategies adopted by B-lymphocytes at different stages to modulate their secretory functions.
 
